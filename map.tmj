@@ -714,6 +714,32 @@
          "tilecount":273,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":32,
+         "firstgid":2956,
+         "image":"tilesets\/Exterior_2.png",
+         "imageheight":4000,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"Exterior_2",
+         "spacing":0,
+         "tilecount":4000,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":176,
+         "firstgid":6956,
+         "image":"tilesets\/Exterior.png",
+         "imageheight":10144,
+         "imagewidth":5632,
+         "margin":0,
+         "name":"Exterior",
+         "spacing":0,
+         "tilecount":55792,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
